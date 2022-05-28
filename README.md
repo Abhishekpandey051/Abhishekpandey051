@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhishekpandey051
-- 👀 I’m interested in Software developer...
+- 👀 I’m interested in Software development...
 - 🌱 I’m currently learning .React js..
 - 💞️ I’m looking to collaborate on .Tech compony..
 - 📫 How to reach me .Drop the message..
