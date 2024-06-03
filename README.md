@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Abhishekpandey051
 - 👀 I’m interested in Software development...
-- 🌱 I’m currently learning .React js..
+- 🌱 I’m currently working as React js..
+- 🌱 I’m currently learning MERN..
 - 💞️ I’m looking to collaborate on .Tech compony..
 - 📫 How to reach me .Drop the message..
 
